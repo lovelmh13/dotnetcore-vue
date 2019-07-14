@@ -1,6 +1,6 @@
 
 # dotnetcore-vue-demo
-*注意此方法适用于vue-cli2*
+*注意此方法适用于vue-cli2 vue-cli3需要自己进行配置*
 ###  通过dotnetCore启动vue项目（或者其他用到webpack的项目，如angular）的解决方案，适用于vue-cli2
 
 https://juejin.im/post/5c6963e9518825625f3a3dc6
